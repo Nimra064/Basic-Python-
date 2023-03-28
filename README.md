@@ -1,7 +1,7 @@
 # 100-Days-Of-Coding-ML
 
 # Week 1
-I Learn on basic of Python Programming Language and practice on  Loop , Function , Control Flow and Data Structure,
+I Learn on basic of Python Programming Language and practice on  Loop , Function , Control Flow and Data Structure. And I write the Article on these Topics https://medium.com/@nimrashahzadisa064/why-did-we-choose-python-programing-language-in-data-science-b2a9e31ec8c2
 
 Python programming language has become very popular among developers and is widely used for web development, data science, machine learning, and artificial intelligence. Here is a general course outline of Python programming:
 
